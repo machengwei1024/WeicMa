@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![Weic's github stats](https://github-readme-stats.vercel.app/api?username=weicma)](https://github.com/weicma)
+[![Weic's github stats](https://github-readme-stats.vercel.app/api?username=weicma&show_icons=true&theme=vue)](https://github.com/weicma)

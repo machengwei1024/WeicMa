@@ -1,9 +1,8 @@
 ### 欢迎来到我的Github主页 👋
 
-💬 一个不务正业的程序员、独立游戏开发者
+💬 程序员、独立游戏开发者；
 
 📫 可通过以下方式联系我:
-- 微信：cw1104365773
 - 邮箱：own@isweic.com
 - 网站：[https://isweic.com](https://isweic.com)
 

@@ -2,11 +2,12 @@
 
 💬 程序员、独立游戏开发者；
 
+<!--
 📫 可通过以下方式联系我:
 - 邮箱：own@isweic.com
 - 网站：[https://isweic.com](https://isweic.com)
 
-<!--
+
 **WeicMa/WeicMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
